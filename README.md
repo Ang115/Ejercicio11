@@ -1,2 +1,2 @@
-# JuegoTrivia
-Juego sencillo en C. 
+# Juego trivia
+Lo elaboramos todos             
